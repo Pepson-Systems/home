@@ -3,4 +3,6 @@ Come Join Us Into A Simplified Web Experience
 Email: <input type="email">
 Password: <input type="password">
 
-<button> Join! </button> 
+<form action="https://Pepson-Systems.github.io/home/thanks">
+    <input type="submit" value="Join Pepson" />
+</form>
