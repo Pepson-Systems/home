@@ -1,6 +1,12 @@
 ## Making Internet for Everyone in Everywhere at Everytime. Thats It. Get Pepson (Beta)
 <button> Get Pepson </button>
 Pepson is a Application Designed for the internet to made it free and open to everyone
+
+# Pepson Maintenance
+Pepson is going under Maintenance Starring 14:51 UTC (Paciffic) 
+<form action="https://pepson-systems.github.io/home">
+    <input type="submit" value="Accept & Continue In Pepson" />
+</form>
 # Design Your Own Experience
 
 Pepson Includes 120 Tools And Customizable Pepson allows every User To Design his Own Experience, In Every Tool and Every Time
@@ -23,17 +29,4 @@ Contact Pepson: pepson-systems@outlook.com (General Info)
 
 Copyright © Pepson Systems, Inc. A TWUG Communications Inc. Company
 <div id="cookieNotice" class="light display-right" style="display: none;">
-    <div id="closeIcon" style="display: none;">
-    </div>
-    <div class="title-wrap">
-        <h4>Cookie Consent</h4>
-    </div>
-    <div class="content-wrap">
-        <div class="msg-wrap">
-            <p>Pepson is Shutting Down for Maintenance Starring at 14:55 UTC (Paccific)<a style="color:#115cfa;" href="/home">Accept</a></p>
-            <div class="btn-wrap">
-                <button class="btn-primary" onclick="acceptCookieConsent();">Accept and Return to Pepson Home</button>
-            </div>
-        </div>
-    </div>
-</div>
+
