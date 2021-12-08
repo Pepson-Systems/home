@@ -6,5 +6,5 @@ Pepson Bussiness Account Adds Your Company to Pepson Economy, Means That Every I
 Pepson Employees Account are Accounts That Can Be Managed By Your Bussiness Account
 # Bussiness Accounts Are Managed By Persons That You Afford To Select
 Only You Can Select Who Can Manage The Bussiness Account
-# And Soo Much more 
-<img-src="https://pepson-systems.github.io/media/CommingSoon.png/">
+# And Soo Much more
+Cooming Soon
