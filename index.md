@@ -19,9 +19,7 @@ Pepson Includes Productive Tools like a Advanced-Text Editor, Slideshow Tool, Sp
 
 Contact Pepson: pepson-systems@outlook.com (General Info)
 
-<banner>
-<img-src="https://Pepson-Systems.github.io/media/Maintenance%20Banner.png">
-  </banner>
+
 
 
 Copyright © Pepson Systems, Inc. A TWUG Communications Inc. Company
